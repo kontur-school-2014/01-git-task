@@ -20,3 +20,10 @@ git-task
 ---
 Жил да был программист-бездельник Вася.
 
+
+Полезные ссылки
+===
+
+* Базовый интерактивный курс по git https://www.codeschool.com/courses/try-git
+* Интерактивный курс по веткам в git http://pcottle.github.io/learnGitBranching
+* Разметка *.md файлов https://help.github.com/articles/markdown-basics/
