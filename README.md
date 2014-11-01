@@ -14,15 +14,28 @@ git-task
 ---
 
 * [Павел Егоров](names/pavel_egorov.md)
+* [Виталий Ишкулов](names/vitaly_ishkulov.txt)
 * [Учанев Василий](names/Vasiliy_uchanev.md)
 * [Карпова Ольга] (names/Olga_Karpova.txt)
+* [Valera Lihosherstov](names/valera_lihosherstov.md)
+* [Загнойко Александр](names/alex_zagnoiko.txt)
+* [Вострецов Павел] (names/pavel_vostretsov.md)
+* [Дмитрий Лесников] (names/dmitry_lesnikov.md)
+* [Промах Александр](names/alexandr_promakh.md)
+* [Телятникова Мария] (names/masha_telyatnikova.md)
 
 
 Сказка
 ---
 Жил да был программист-бездельник Вася.
+Как-то раз решил он пойти и покодить вместе с его другом Сашей.
+И однажды они написали свою социальную сеть.
+Вот и всё.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1ee458b5d04c95f8b6aeb86fe81222c31073c2b1
 Полезные ссылки
 ===
 
