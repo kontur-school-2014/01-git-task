@@ -24,6 +24,7 @@ git-task
 * [Промах Александр](names/alexandr_promakh.md)
 * [Пышкин Николай](names/pyshkin nikolay.md)
 * [Телятникова Мария] (names/masha_telyatnikova.md)
+* [Свалова Настя](names/svalova_nastya.md)
 * [Артур Лисс] (names/artur_liss.md)
 * [Ананьин Александр](names/Alexander_Ananin.md)
 * [Чаплыгин Антон] (names/anton_chaplygin.md)
@@ -31,6 +32,7 @@ git-task
 Сказка
 ---
 Жил да был программист-бездельник Вася.
+У него были рыжие волосы.
 Вася был молодец.
 Как-то раз решил он пойти и покодить вместе с его другом Сашей.
 И однажды они написал свою социальную сеть.
