@@ -32,6 +32,7 @@ git-task
 * [Чаплыгин Антон] (names/anton_chaplygin.md)
 * [Александр Кине] (names/Alexander Kine.md)
 * [Сухоплюев Илья] (names/ilya_sukhoplyuev.md)
+* [Тимофей Ефимов] (names/timofey_yefimov.md)
 
 Сказка
 ---
