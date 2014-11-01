@@ -16,6 +16,7 @@ git-task
 * [Павел Егоров](names/pavel_egorov.md)
 * [Учанев Василий](names/Vasiliy_uchanev.md)
 * [Загнойко Александр](names/alex_zagnoiko.txt)
+* [Чаплыгин Антон] (names/anton_chaplygin.md)
 
 
 Сказка
