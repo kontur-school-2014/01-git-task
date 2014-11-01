@@ -17,6 +17,7 @@ git-task
 * [Виталий Ишкулов](names/vitaly_ishkulov.txt)
 * [Учанев Василий](names/Vasiliy_uchanev.md)
 * [Загнойко Александр](names/alex_zagnoiko.txt)
+* [Вострецов Павел] (names/pavel_vostretsov.md)
 
 
 Сказка
