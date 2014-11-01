@@ -16,7 +16,10 @@ git-task
 * [Павел Егоров](names/pavel_egorov.md)
 * [Виталий Ишкулов](names/vitaly_ishkulov.txt)
 * [Учанев Василий](names/Vasiliy_uchanev.md)
+* [Valera Lihosherstov](names/valera_lihosherstov.md)
 * [Загнойко Александр](names/alex_zagnoiko.txt)
+* [Дмитрий Лесников] (names/dmitry_lesnikov.md)
+* [Промах Александр](names/alexandr_promakh.md)
 
 
 Сказка
