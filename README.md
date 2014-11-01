@@ -20,6 +20,7 @@ git-task
 * [Загнойко Александр](names/alex_zagnoiko.txt)
 * [Дмитрий Лесников] (names/dmitry_lesnikov.md)
 * [Промах Александр](names/alexandr_promakh.md)
+* [Телятникова Мария] (names/masha_telyatnikova.md)
 
 
 Сказка
