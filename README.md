@@ -24,6 +24,7 @@ git-task
 * [Пышкин Николай](names/pyshkin nikolay.md)
 * [Телятникова Мария] (names/masha_telyatnikova.md)
 * [Артур Лисс] (names/artur_liss.md)
+* [Ананьин Александр](names/Alexander_Ananin.md)
 
 
 Сказка
