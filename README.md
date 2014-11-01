@@ -14,6 +14,7 @@ git-task
 ---
 
 * [Павел Егоров](names/pavel_egorov.md)
+* [Виталий Ишкулов](names/vitaly_ishkulov.txt)
 * [Учанев Василий](names/Vasiliy_uchanev.md)
 * [Загнойко Александр](names/alex_zagnoiko.txt)
 
