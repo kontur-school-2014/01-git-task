@@ -28,6 +28,7 @@ git-task
 * [Артур Лисс] (names/artur_liss.md)
 * [Ананьин Александр](names/Alexander_Ananin.md)
 * [Чаплыгин Антон] (names/anton_chaplygin.md)
+* [Александр Кине] (names/Alexander Kine.md)
 
 Сказка
 ---
