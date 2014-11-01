@@ -21,6 +21,7 @@ git-task
 * [Дмитрий Лесников] (names/dmitry_lesnikov.md)
 * [Промах Александр](names/alexandr_promakh.md)
 * [Телятникова Мария] (names/masha_telyatnikova.md)
+* [Ананьин Александр](names/Alexander_Ananin.md)
 
 
 Сказка
