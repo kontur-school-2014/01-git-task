@@ -21,8 +21,12 @@ git-task
 * [Вострецов Павел] (names/pavel_vostretsov.md)
 * [Дмитрий Лесников] (names/dmitry_lesnikov.md)
 * [Промах Александр](names/alexandr_promakh.md)
+* [Пышкин Николай](names/pyshkin nikolay.md)
 * [Телятникова Мария] (names/masha_telyatnikova.md)
 * [Чаплыгин Антон] (names/anton_chaplygin.md)
+* [Ананьин Александр](names/Alexander_Ananin.md)
+
+>>>>>>> f896a5e414f12336862432d0ca277d3630c20462
 
 Сказка
 ---
