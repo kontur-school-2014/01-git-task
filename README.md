@@ -19,6 +19,7 @@ git-task
 * [Valera Lihosherstov](names/valera_lihosherstov.md)
 * [Загнойко Александр](names/alex_zagnoiko.txt)
 * [Промах Александр](names/alexandr_promakh.md)
+* [Телятникова Мария] (names/masha_telyatnikova.md)
 
 
 Сказка
