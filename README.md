@@ -14,6 +14,7 @@ git-task
 ---
 
 * [Павел Егоров](names/pavel_egorov.md)
+* [Виталий Ишкулов](names/vitaly_ishkulov.txt)
 
 
 Сказка
