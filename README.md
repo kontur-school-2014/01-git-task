@@ -20,6 +20,7 @@ git-task
 * [Загнойко Александр](names/alex_zagnoiko.txt)
 * [Дмитрий Лесников] (names/dmitry_lesnikov.md)
 * [Промах Александр](names/alexandr_promakh.md)
+* [Пышкин Николай](names/pyshkin nikolay.md)
 
 
 Сказка
