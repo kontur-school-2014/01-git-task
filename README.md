@@ -16,6 +16,7 @@ git-task
 * [Павел Егоров](names/pavel_egorov.md)
 * [Виталий Ишкулов](names/vitaly_ishkulov.txt)
 * [Учанев Василий](names/Vasiliy_uchanev.md)
+* [Карпова Ольга] (names/Olga_Karpova.txt)
 * [Valera Lihosherstov](names/valera_lihosherstov.md)
 * [Загнойко Александр](names/alex_zagnoiko.txt)
 * [Вострецов Павел] (names/pavel_vostretsov.md)
@@ -23,27 +24,32 @@ git-task
 * [Промах Александр](names/alexandr_promakh.md)
 * [Пышкин Николай](names/pyshkin nikolay.md)
 * [Телятникова Мария] (names/masha_telyatnikova.md)
+* [Свалова Настя](names/svalova_nastya.md)
+* [Артур Лисс] (names/artur_liss.md)
 * [Ананьин Александр](names/Alexander_Ananin.md)
 * [Бикташев Галлям](names/gallyam_biktashev.md)
 * [Куликов Саша](names/kulikov_alexander.md)
-
+* [Чаплыгин Антон] (names/anton_chaplygin.md)
+* [Александр Кине] (names/Alexander Kine.md)
 
 Сказка
 ---
 Жил да был программист-бездельник Вася.
+У него были рыжие волосы.
+Вася был молодец.
 Как-то раз решил он пойти и покодить вместе с его другом Сашей.
 И однажды они написал свою социальную сеть.
 И все у них было Ок =)
-=======
 И однажды они написали свою социальную сеть.
+И эта социальная сеть стала очень очень популярной.
 Вот и всё.
+Их сеть не взлетела и они умерли от голода.
+А потом к Саше пришел Цукерберг с Биллом Гейтсом и предложил подружиться.
+Их сеть не взлетела и они умерли от голода. Вот и сказке конец, а кто слушал - молодец.
+Алтернативная версия:
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 1ee458b5d04c95f8b6aeb86fe81222c31073c2b1
 Полезные ссылки
-===
+
 
 * Базовый интерактивный курс по git https://www.codeschool.com/courses/try-git
 * Интерактивный курс по веткам в git http://pcottle.github.io/learnGitBranching
