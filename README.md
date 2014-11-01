@@ -31,6 +31,7 @@ git-task
 * [Куликов Саша](names/kulikov_alexander.md)
 * [Чаплыгин Антон] (names/anton_chaplygin.md)
 * [Александр Кине] (names/Alexander Kine.md)
+* [Сухоплюев Илья] (names/ilya_sukhoplyuev.md)
 
 Сказка
 ---
