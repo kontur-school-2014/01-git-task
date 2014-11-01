@@ -23,8 +23,9 @@ git-task
 * [Промах Александр](names/alexandr_promakh.md)
 * [Пышкин Николай](names/pyshkin nikolay.md)
 * [Телятникова Мария] (names/masha_telyatnikova.md)
-* [Чаплыгин Антон] (names/anton_chaplygin.md)
+* [Артур Лисс] (names/artur_liss.md)
 * [Ананьин Александр](names/Alexander_Ananin.md)
+* [Чаплыгин Антон] (names/anton_chaplygin.md)
 
 Сказка
 ---
@@ -35,6 +36,7 @@ git-task
 =======
 И однажды они написали свою социальную сеть.
 Вот и всё.
+Их сеть не взлетела и они умерли от голода.
 
 Полезные ссылки
 ===
