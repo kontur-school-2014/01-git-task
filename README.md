@@ -18,17 +18,17 @@ git-task
 * [Учанев Василий](names/Vasiliy_uchanev.md)
 * [Valera Lihosherstov](names/valera_lihosherstov.md)
 * [Загнойко Александр](names/alex_zagnoiko.txt)
-* [Чаплыгин Антон] (names/anton_chaplygin.md)
+* [Дмитрий Лесников] (names/dmitry_lesnikov.md)
 * [Промах Александр](names/alexandr_promakh.md)
-
+* [Телятникова Мария] (names/masha_telyatnikova.md)
+* [Чаплыгин Антон] (names/anton_chaplygin.md)
 
 Сказка
 ---
 Жил да был программист-бездельник Вася.
 Как-то раз решил он пойти и покодить вместе с его другом Сашей.
-И однажды они написал свою социальную сеть.
-
->>>>>>> 6f64fe2920b55d0b8bf4fdfa9907acb9c14d6dfc
+И однажды они написали свою социальную сеть.
+Вот и всё.
 
 Полезные ссылки
 ===
